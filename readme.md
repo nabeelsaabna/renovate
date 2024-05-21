@@ -28,19 +28,6 @@ Multi-platform and multi-language.
 - Get replacement PRs to migrate from a deprecated dependency to the community suggested replacement, works with _most_ managers, see [issue 14149](https://github.com/renovatebot/renovate/issues/14149) for exceptions
 - Open source (installable via npm/Yarn or Docker Hub) so can be self-hosted or used via the Mend Renovate App
 
-## Supported Platforms
-
-Renovate works on these platforms:
-
-- [GitHub (.com and Enterprise Server)](https://docs.renovatebot.com/modules/platform/github/)
-- [GitLab (.com and CE/EE)](https://docs.renovatebot.com/modules/platform/gitlab/)
-- [Bitbucket Cloud](https://docs.renovatebot.com/modules/platform/bitbucket/)
-- [Bitbucket Server](https://docs.renovatebot.com/modules/platform/bitbucket-server/)
-- [Azure DevOps](https://docs.renovatebot.com/modules/platform/azure/)
-- [AWS CodeCommit](https://docs.renovatebot.com/modules/platform/codecommit/)
-- [Gitea and Forgejo](https://docs.renovatebot.com/modules/platform/gitea/)
-- [Gerrit (experimental)](https://docs.renovatebot.com/modules/platform/gerrit/)
-
 ## Who Uses Renovate?
 
 Renovate is widely used in the developer community:
